@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{270:function(e,n,s){"use strict";s.r(n);var a={name:"Base-Table"},l=s(13),t=Object(l.a)(a,(function(){return(0,this._self._c)("div",[this._v("Base-Table")])}),[],!1,null,null,null);n.default=t.exports}}]);
